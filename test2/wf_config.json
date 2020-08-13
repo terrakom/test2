@@ -3,7 +3,7 @@
   "color": "blue",
   "developer": "Warrior Framework",
   "description": "Sample app with basic app structure",
-  "app" : {"name" : "test App", "url" : "/katana/testapp/", "include": "wapps.testapp.urls"},
+  "app" : {"name" : "test App", "url" : "/katana/testapp/", "include": "katana.wapps.test2.urls"},
   "warrior-compatibility": ":warrior-3.7.0",
   "warrior-incompatibility": "",
   "version": "1.0.0",
